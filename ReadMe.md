@@ -4,7 +4,7 @@ Raw Accel is a Windows 10 & Windows 11 x86-64 driver which allows for the accele
 
 ## Anti-Cheat Friendly
 
-[Releases](https://github.com/a1xd/rawaccel/releases/latest) of the Raw Accel driver are signed and run in system space. Raw Accel only modifies mouse input by a constant set of formulas, and adds a one-second delay when changing settings in order to mitigate its abuse.
+[Releases](https://github.com/rawaccel/rawaccel/releases/latest) of the Raw Accel driver are signed and run in system space. Raw Accel only modifies mouse input by a constant set of formulas, and adds a one-second delay when changing settings in order to mitigate its abuse.
 
 ## Getting Help
 
@@ -12,7 +12,7 @@ For an overview of everything Raw Accel has to offer, please see the [guide](doc
 
 ## Development
 
-Development of Raw Accel is ongoing at https://github.com/a1xd/rawaccel. Bug reports and pull requests are always welcome.  Join [our Discord server](https://discord.gg/7pQh8zH) if you want to stay updated with releases or say hello.
+Development of Raw Accel is ongoing at https://github.com/rawaccel/rawaccel. Bug reports and pull requests are always welcome.  Join [our Discord server](https://discord.gg/7pQh8zH) if you want to stay updated with releases or say hello.
 
 ## Credits
 simon - Driver & Acceleration Logic  
