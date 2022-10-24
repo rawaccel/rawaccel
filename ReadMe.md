@@ -1,7 +1,8 @@
 # Raw Accel
 
 Raw Accel is a Windows 10 & Windows 11 x86-64 driver which allows for the acceleration of mouse input in the raw input stream. It started as a replacement for [InterAccel](https://github.com/KovaaK/InterAccel) and has been extended with more acceleration types, charts, and other features.
-Download Last Version: [Releases](https://github.com/rawaccel/rawaccel/releases/latest)
+# Download
+Download Last Version: [Releases](https://github.com/rawaccel/rawaccel/releases/download/v1.6.1/RawAccel_v1.6.1.zip)
 
 ## Anti-Cheat Friendly
 
