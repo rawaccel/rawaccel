@@ -10,7 +10,7 @@ Download Last Version: [RawAccel v1.6.1](https://github.com/rawaccel/rawaccel/re
 
 ## Getting Help
 
-For an overview of everything Raw Accel has to offer, please see the [guide](doc/Guide.md). For questions, see the [FAQ](doc/FAQ.md) first.
+For an overview of everything Raw Accel has to offer, please see the [guides](doc/Guide.md). For questions, see the [FAQ](doc/FAQ.md) first.
 
 ## Development
 
