@@ -14,7 +14,7 @@ For an overview of everything Raw Accel has to offer, please see the [guides](do
 
 ## Development
 
-Development of Raw Accel is ongoing at https://github.com/rawaccel/rawaccel. Bug report and pull requests are always welcome.  Join [our Discord server](https://discord.gg/7pQh8zH) if you want to stay updated with releases or say hello.
+Developments of Raw Accel is ongoing at https://github.com/rawaccel/rawaccel. Bug report and pull requests are always welcome.  Join [our Discord server](https://discord.gg/7pQh8zH) if you want to stay updated with releases or say hello.
 
 ## Credits
 simon - Driver & Acceleration Logic  
